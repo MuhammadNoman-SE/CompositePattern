@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yGUfzpvGCQD2fn8sPjjOZLj3QpU09GmiLz0M+PebrOGqs8N2u01m0ZWAQCZ/1w7ScfA1iONXMA3KNv8AlPujfA==",
+  "success": true,
+  "projectFilePath": "D:\\CompositePattern\\CompositeDemo\\CompositeDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muhammad.Noman\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
